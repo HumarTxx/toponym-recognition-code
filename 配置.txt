@@ -1,0 +1,11 @@
+本项目是基于keras（Using TensorFlow backend）以下是主要库的版本
+
+python = 3.6.8
+
+keras == 2.2.4
+
+keras_contrib == 0.0.2
+
+keras_bert == 0.80.0
+
+tensorflow == 1.14.0
